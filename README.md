@@ -5,6 +5,7 @@
 3. 服务端，客户端底层搭建
 
 ## 目前目录结构
+<pre>
 |-- project
     |-- index.js //入口文件
     |-- README.md
@@ -13,4 +14,6 @@
     |   |-- index.html
     |-- sever // 服务端
         |-- sever.js
+</pre>
+
 [该目录结构生成方法mark出处](https://vimsky.com/article/3606.html)
