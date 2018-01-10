@@ -6,14 +6,26 @@
 
 ## 目前目录结构
 <pre>
-|-- project
-    |-- index.js //入口文件
+|-- node-chat
+    |-- .gitignore
+    |-- app.js
+    |-- package.json
     |-- README.md
-    |-- asset //静态资源
-    |-- layout //页面模板
-    |   |-- index.html
-    |-- sever // 服务端
-        |-- sever.js
+    |-- bin
+    |   |-- www
+    |-- public
+    |   |-- images
+    |   |-- javascripts
+    |   |-- stylesheets
+    |       |-- style.css
+    |-- routes
+    |   |-- index.js
+    |   |-- users.js
+    |-- server
+    |   |-- server.js
+    |-- views
+        |-- error.ejs
+        |-- index.ejs
 </pre>
 
 [该目录结构生成方法mark出处](https://vimsky.com/article/3606.html)
