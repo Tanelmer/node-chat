@@ -2,5 +2,8 @@
 npm-debug.log
 npm-debug.log.*
 .idea
+/.cache/
+/dist/
+/bin/
 /node_modules/
 /node_modules/**
